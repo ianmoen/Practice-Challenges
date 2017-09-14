@@ -41,10 +41,8 @@ int main()
     while(t>0)
     {
         int n,k;
-        
         scanf("%i", &n);
         scanf("%i", &k);
-        
         int i;
         int arr[n];
         
